@@ -1,9 +1,11 @@
 language: python
 
-os:
+os: linux
+
+dist: 
   - Xenial
   - Bionic
-
+  
 arch:
   - amd64
   - ppc64le
