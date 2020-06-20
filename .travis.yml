@@ -1,6 +1,6 @@
 language: python
 
-os: linux
+os: osx
 
 arch: amd64
 
