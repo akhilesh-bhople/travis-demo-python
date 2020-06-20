@@ -1,8 +1,12 @@
 language: python
 
-os: osx
+os:
+  - Xenial
+  - Bionic
 
-arch: amd64
+arch:
+  - amd64
+  - ppc64le
 
 python:
   - 2.7
